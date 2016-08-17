@@ -3,7 +3,9 @@ An Open Source Surveillance Browser-Based Video Game
 
 # Video Game Theme Warning
 This video game has non-graphical parody depictions of fictional attacks against US persons and US landmarks which may or may not be based on past, present or future events. 
+
 Those persons who are foreign non-citizens of the United States from certains parts of the world may not want to look at this game.
+
 Viewing, running or participating in this game can land you on a watchlist, or get you questioned by a fellow OTB agent. 
 
 # Welcome to the OTB
@@ -41,9 +43,13 @@ Days can run quickly (20 minutes realtime), so spend your resources, analyze eve
 # Persons
 Personal profiles are generated at game start for all people and relations to them.
 
-Getting into the mind of the suspect will allow you to isolate dangerous individuals versus average people. Go deep with criminal, citizenship, immigration, driving, education, employment, financial, medical and military records.
+Getting into the mind of the suspect will allow you to isolate dangerous individuals versus average people. 
+
+Go deeper with criminal, citizenship, immigration, driving, education, employment, financial, medical and military records.
 
 # Suspects
 Are you sure that guy is innocent or are you just thinking he is?
 
-Bring him in for a conversation, see how it goes. If you're not sure, why not just give him a bit of water? It's all for a good cause. 
+Bring him in for a conversation, see how it goes. If you're not sure, why not just give him a bit of water? 
+
+It's all for a good cause. 
